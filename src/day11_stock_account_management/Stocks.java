@@ -1,6 +1,5 @@
 package day11_stock_account_management;
 
-
 import java.util.List;
 
 public class Stocks  {

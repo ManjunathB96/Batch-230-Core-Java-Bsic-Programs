@@ -1,7 +1,5 @@
 package day11_stock_account_management;
 
-
-
 public class Stock  {
     private String nameOfStock;
     private  int numberOfShare;

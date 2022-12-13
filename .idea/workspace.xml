@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="631d07d5-bfcf-4c90-abe2-d22c7fa2c89c" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Batch-230 Core Java Programs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Batch-230 Core Java Programs.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day11_stock_account_management/Stock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day11_stock_account_management/Stock.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day11_stock_account_management/Stock.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/day11_stock_account_management/Stock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/day11_stock_account_management/Stocks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day11_stock_account_management/Stocks.java" afterDir="false" />
@@ -55,7 +54,7 @@
     "project.structure.side.proportion": "0.2"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.StockAccManagement">
+  <component name="RunManager" selected="Application.DeckOfCardMain">
     <configuration name="Customer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day11_bank_account_sevice_program.Customer" />
       <module name="Batch-230 Core Java Programs" />
@@ -69,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintOddPosNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3_array_based_programs.PrintOddPosNum" />
+    <configuration name="DeckOfCardMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day11_deck_of_cards_program.DeckOfCardMain" />
       <module name="Batch-230 Core Java Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3_array_based_programs.*" />
+          <option name="PATTERN" value="day11_deck_of_cards_program.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,19 +121,19 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="Application.DeckOfCardMain" />
       <item itemvalue="Application.StockAccManagement" />
       <item itemvalue="Application.Customer" />
-      <item itemvalue="Application.PrintOddPosNum" />
       <item itemvalue="Application.SecondLargestEleInArray" />
       <item itemvalue="Application.SecondSmallestEleInArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DeckOfCardMain" />
         <item itemvalue="Application.StockAccManagement" />
         <item itemvalue="Application.Customer" />
         <item itemvalue="Application.SecondSmallestEleInArray" />
         <item itemvalue="Application.SecondLargestEleInArray" />
-        <item itemvalue="Application.PrintOddPosNum" />
       </list>
     </recent_temporary>
   </component>

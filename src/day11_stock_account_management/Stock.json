@@ -14,6 +14,11 @@
       "nameOfStock": "Microsoft",
       "numberOfShare":450,
       "sharePrice":320
+    },
+    {
+      "nameOfStock": "Intellect",
+      "numberOfShare":180,
+      "sharePrice":120
     }
   ]
 }

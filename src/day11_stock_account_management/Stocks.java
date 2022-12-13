@@ -13,3 +13,8 @@ public class Stocks {
         this.stockList = stockList;
     }
 }
+/*
+steps to add JSON external library
+
+File-> Project Structure -> Libraries-> (+)->maven repo->com.fasterxml.jackson.core:jackson-databind:2.13.3 -> ok
+ */

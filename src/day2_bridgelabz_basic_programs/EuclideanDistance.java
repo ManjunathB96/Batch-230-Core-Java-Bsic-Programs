@@ -10,3 +10,7 @@ public class EuclideanDistance {
         System.out.println(distance);
     }
 }
+/*
+input: 2 4
+output: 4.47213595499958
+ */

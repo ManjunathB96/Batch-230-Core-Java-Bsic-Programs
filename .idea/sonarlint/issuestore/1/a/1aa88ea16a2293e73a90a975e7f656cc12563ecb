@@ -1,0 +1,26 @@
+
+>
+java:S1643"Use a StringBuilder instead.(çÒÀ’øÿÿÿÿ8û”úÀĞ0
+>
+java:S1643"Use a StringBuilder instead.(Ä‹åÆıÿÿÿÿ8ü”úÀĞ0
+>
+java:S1643"Use a StringBuilder instead.(•ë¸ûÿÿÿÿ8ü”úÀĞ0
+9
+java:S1643"Use a StringBuilder instead.(³º´ù8ü”úÀĞ0
+>
+java:S1643""Use a StringBuilder instead.(åÓ™”ûÿÿÿÿ8ü”úÀĞ0
+9
+java:S1643%"Use a StringBuilder instead.(Û´ä 8ü”úÀĞ0
+9
+java:S1643("Use a StringBuilder instead.(…–¯ó8ü”úÀĞ0
+>
+java:S1643+"Use a StringBuilder instead.(—çâãşÿÿÿÿ8ı”úÀĞ0
+>
+java:S1643/"Use a StringBuilder instead.(¡µ¼¶úÿÿÿÿ8ı”úÀĞ0
+9
+java:S16432"Use a StringBuilder instead.(ß»ÈÆ8ı”úÀĞ0
+>
+java:S1643="Use a StringBuilder instead.(£ç´Óüÿÿÿÿ8ı”úÀĞ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—¢‘Êûÿÿÿÿ
+T	java:S106	"9Replace this use of System.out or System.err by a logger.(Òìe8¾•úÀĞ0
+T	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB8À•úÀĞ0

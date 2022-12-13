@@ -1,4 +1,4 @@
-package day11_deck_of_cards_program;
+package day11_bank_account_sevice_program.day11_deck_of_cards_program;
 
 public class DeckOfCards {
     static String rank[] = {"2", "3", "4", "5", "6", "7", "8", "9", "10", "Jack", "Queen", "King", "Ace"};

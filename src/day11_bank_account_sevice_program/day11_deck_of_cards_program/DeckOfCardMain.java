@@ -1,4 +1,4 @@
-package day11_deck_of_cards_program;
+package day11_bank_account_sevice_program.day11_deck_of_cards_program;
 
 public class DeckOfCardMain {
     public static void main(String[] args) {

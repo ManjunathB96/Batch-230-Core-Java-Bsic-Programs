@@ -1,0 +1,11 @@
+
+y
+java:S1488"^Immediately return this expression instead of assigning it to the temporary variable "stocks".(ú»üŞüÿÿÿÿ
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°Ç‚
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(ú»üŞüÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(„‘ğ·şÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‰ùÁÍ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(É´»À
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ãòÂş
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ªÓ¼áşÿÿÿÿ8ÆñäĞ0

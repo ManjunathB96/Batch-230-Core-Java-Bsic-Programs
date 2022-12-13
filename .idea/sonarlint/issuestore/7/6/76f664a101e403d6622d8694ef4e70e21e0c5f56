@@ -1,0 +1,8 @@
+
+_
+java:S2184	"BCast one of the operands of this addition operation to a "double".(¼ªÁ8’œÂĞ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ˆá¾Ùúÿÿÿÿ
+:
+java:S1659"Declare "y" on a separate line.(İŸ°ÿÿÿÿÿ
+U	java:S106
+"9Replace this use of System.out or System.err by a logger.(ìÿáá8«êÂĞ0

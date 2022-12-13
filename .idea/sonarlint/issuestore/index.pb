@@ -33,3 +33,17 @@ g
 7src/day2_conditional_statement_programs/ReverseNum.java,7\e\7e8ab83378648c2df096f21dd14844e6e1e1292b
 l
 <src/day2_conditional_statement_programs/SumOfNaturalNum.java,3\b\3b142c0f5573f9cf2872c4e5151ddb87ae87a2cb
+a
+1src/day2_bridgelabz_basic_programs/Quadratic.java,8\a\8ac36e4c89c8c881e55d7e8cb7e2b607f6c5c89e
+d
+4src/day2_bridgelabz_basic_programs/SpringSeason.java,0\9\09b842706260ddb47189263cda145270aa60ddba
+i
+9src/day2_bridgelabz_basic_programs/EuclideanDistance.java,7\6\76f664a101e403d6622d8694ef4e70e21e0c5f56
+a
+1src/day3_array_based_programs/PrintOddPosNum.java,5\d\5d926f6205639334bd790678a9ad208a06e4bfd0
+b
+2src/day3_array_based_programs/PrintEvenPosNum.java,1\4\14e0752a201f5cbfc1c8f4f7d52a2802a0cf39eb
+j
+:src/day3_array_based_programs/SecondLargestEleInArray.java,6\9\69c374be3a4a1e39995e1c5738e06569ce8ef67b
+k
+;src/day3_array_based_programs/SecondSmallestEleInArray.java,3\b\3b0061e7461e2eced4629f4aa0c3c0ff687bbc24

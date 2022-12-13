@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="631d07d5-bfcf-4c90-abe2-d22c7fa2c89c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_deck_of_cards_program/DeckOfCardMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day11_bank_account_sevice_program/day11_deck_of_cards_program/DeckOfCardMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day11_deck_of_cards_program/DeckOfCards.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day11_bank_account_sevice_program/day11_deck_of_cards_program/DeckOfCards.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +51,7 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.FindFrequencyOfChar">
+  <component name="RunManager" selected="Application.FindSmallestEleInArray">
     <configuration name="FindFrequencyOfChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day3_array_based_programs.FindFrequencyOfChar" />
       <module name="Batch-230 Core Java Programs" />
@@ -68,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PrintEleOfArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3_array_based_programs.PrintEleOfArray" />
+    <configuration name="FindLargestEleInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3_array_based_programs.FindLargestEleInArray" />
       <module name="Batch-230 Core Java Programs" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDupChar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3_array_based_programs.RemoveDupChar" />
+    <configuration name="FindSmallestEleInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3_array_based_programs.FindSmallestEleInArray" />
       <module name="Batch-230 Core Java Programs" />
       <extension name="coverage">
         <pattern>
@@ -122,18 +119,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.FindFrequencyOfChar" />
-      <item itemvalue="Application.PrintEleOfArray" />
-      <item itemvalue="Application.RemoveDupChar" />
+      <item itemvalue="Application.FindLargestEleInArray" />
+      <item itemvalue="Application.FindSmallestEleInArray" />
       <item itemvalue="Application.RevStrUsingCharArray" />
       <item itemvalue="Application.ReverseString" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.FindSmallestEleInArray" />
+        <item itemvalue="Application.FindLargestEleInArray" />
         <item itemvalue="Application.FindFrequencyOfChar" />
         <item itemvalue="Application.RevStrUsingCharArray" />
         <item itemvalue="Application.ReverseString" />
-        <item itemvalue="Application.PrintEleOfArray" />
-        <item itemvalue="Application.RemoveDupChar" />
       </list>
     </recent_temporary>
   </component>

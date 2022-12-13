@@ -1,19 +1,19 @@
 {
   "stockList": [
     {
-      "nameOfShare" : "BridgeLabs Solution",
-      "numberOfShare" : 500,
-      "sharePrice": 285
+      "nameOfStock": "BridgeLabz Solution",
+      "numberOfShare":250,
+      "sharePrice":158
     },
     {
-      "nameOfShare" : "Infosys",
-      "numberOfShare" : 800,
-      "sharePrice": 352
+      "nameOfStock": "InfoSys",
+      "numberOfShare":300,
+      "sharePrice":212
     },
     {
-      "nameOfShare" : "MicroSoft",
-      "numberOfShare" : 1200,
-      "sharePrice": 420
+      "nameOfStock": "Microsoft",
+      "numberOfShare":450,
+      "sharePrice":320
     }
   ]
 }

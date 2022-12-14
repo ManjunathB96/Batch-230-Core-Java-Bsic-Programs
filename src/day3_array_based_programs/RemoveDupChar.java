@@ -29,6 +29,7 @@ public class RemoveDupChar {
             System.out.print(array+" ");
             }
      //output is 109 97 110 106 117 0 0 0 0 the numbers it is printing bcz it taking ASCII value i,e unique code
+     as the variable array is of int type in foreach loop
      these values only for lower case letters and not  for UpperCase letters  The code values are different for UpperCase letters
     char -> m -> decimal -> 109  or hex->6D  or oct->155
      char -> a -> decimal -> 97  or hex->61  or oct->141

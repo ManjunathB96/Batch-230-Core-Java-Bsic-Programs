@@ -2,29 +2,41 @@ package day3_array_based_programs;
 
 public class RemoveDupChar {
     public static void main(String[] args) {
-        char beforeArr[] = {'x', 'a', 'f', 'h', 'a', 'h', 'a'};
-        removeDupChar(beforeArr);
+        char baseArray[] = {'m', 'a', 'n', 'm', 'a', 'n', 'j', 'u', 'j'};
+        removeDupChar(baseArray);
     }
-    private static void removeDupChar(char[] beforeArr) {
-        int size = beforeArr.length;
-        int temp = 0;
-        char afterArr[] = new char[size];
-        for (int i = 0; i < size; i++) {
-            for (int j = i + 1; j < size; j++) {
-                if ( beforeArr[i] == afterArr[j] ) {
+
+    private static void removeDupChar(char[] baseArray) {
+        char newArr[] = new char[baseArray.length];
+        int count = 0;
+        for (int i = 0; i < baseArray.length; i++) {
+            boolean isPresent = false;
+            for (int j = 0; j < newArr.length; j++) {
+                if (baseArray[i] == newArr[j]) {
+                    isPresent = true;
                     break;
                 }
-                if (i == temp){
-                    afterArr[temp] = beforeArr[i];
-                    temp++;
-                }
+            }
+            if (!isPresent) {
+                newArr[count] = baseArray[i];
+                count++;
             }
         }
-        for (int i =0;i<size;i++){
-            System.out.print(afterArr[i]+" ");
+        for (int i = 0; i < newArr.length; i++) {
+            System.out.print(newArr[i] + " ");      //output :m a n j u
+        }
+      /*  for (int array : newArr){
+            System.out.print(array+" ");
+            }
+     //output is 109 97 110 106 117 0 0 0 0 the numbers it is printing bcz it taking ascii value i,e unique code
+*/
+        for (int array : newArr) {
+            System.out.print((char) array + " "); //output : m a n j u
         }
     }
 
 }
+
+
 
 

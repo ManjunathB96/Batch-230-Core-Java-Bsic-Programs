@@ -43,10 +43,6 @@ a
 1src/day3_array_based_programs/PrintOddPosNum.java,5\d\5d926f6205639334bd790678a9ad208a06e4bfd0
 b
 2src/day3_array_based_programs/PrintEvenPosNum.java,1\4\14e0752a201f5cbfc1c8f4f7d52a2802a0cf39eb
-j
-:src/day3_array_based_programs/SecondLargestEleInArray.java,6\9\69c374be3a4a1e39995e1c5738e06569ce8ef67b
-k
-;src/day3_array_based_programs/SecondSmallestEleInArray.java,3\b\3b0061e7461e2eced4629f4aa0c3c0ff687bbc24
 i
 9src/day11_bank_account_sevice_program/AccountDetails.java,9\d\9d02d46c7232ef0724c2019c1921ed04f0380bc8
 c
@@ -67,3 +63,7 @@ j
 Usrc/day11_bank_account_sevice_program/day11_deck_of_cards_program/DeckOfCardMain.java,0\8\08c7b4e10ef721a594c2aee0cd5e67a0f938e054
 ‚
 Rsrc/day11_bank_account_sevice_program/day11_deck_of_cards_program/DeckOfCards.java,b\b\bb5b322f767949db09474b78e42751367be1c280
+`
+0src/day3_array_based_programs/ReverseString.java,4\5\4567272153e417a106cc691ca39e173df3d7e507
+g
+7src/day3_array_based_programs/RevStrUsingCharArray.java,d\f\df27c76f5ffbf9f76710295abc4f9a6a73bad2dc

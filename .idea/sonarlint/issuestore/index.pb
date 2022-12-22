@@ -93,5 +93,13 @@ d
 4src/day_16_and_17_algorithm_programs/BubbleSort.java,d\0\d0745e443f1f55f2e4b1940414229ca137474245
 g
 7src/day_16_and_17_algorithm_programs/SelectionSort.java,9\3\932f3146ca066bb35d55ea7481ef3f7a9d74abdc
-^
-.src/day_16_and_17_algorithm_programs/Read.java,2\6\26fb5a9196de1a6eb3e68f8362f7017d97b2464e
+f
+6src/day_16_and_17_binarysearch_algorithm/WordsList.txt,2\5\25c5630b9ae31c4563204c3cfe0490168d18466e
+b
+2src/day_16_and_17_algorithm_programs/WordsList.txt,8\a\8ad102557054f5ddb9fe4c0c8d1c6b56a0dd14dd
+m
+=src/day_16_and_17_binarysearch_algorithm/WriteDataToFile.java,9\d\9d16dee66b99361e73c3145ac865b53c7147cab1
+|
+Lsrc/day_16_and_17_binarysearch_algorithm/BinarySearchOfStrByReadingFile.java,e\e\ee2f64a04e379e5f38a637a310667cb0fe21028e
+[
++src/day_19_regex_programs/FirstNameUC1.java,2\3\23091f6736ae646b3f152a6911463f7c52470f06

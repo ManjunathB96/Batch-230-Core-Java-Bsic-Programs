@@ -1,0 +1,15 @@
+
+{
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(çâîÀıÿÿÿÿ8¹•§ÄÓ0
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(èõ‡ùúÿÿÿÿ
+g
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(£ú¥Àÿÿÿÿÿ8ô•§ÄÓ0
+c
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(£ú¥Àÿÿÿÿÿ8Œ–§ÄÓ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(£ˆº©8š–§ÄÓ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(âûèğşÿÿÿÿ8¡–§ÄÓ0
+U	java:S106 "9Replace this use of System.out or System.err by a logger.(ö‘­8ª–§ÄÓ0
+A
+java:S16593"Declare "r" on a separate line.(æİô‚ÿÿÿÿÿ8·–§ÄÓ0
+U	java:S1061"9Replace this use of System.out or System.err by a logger.(Ä’¸¬8¯®¨ÄÓ0
+V	java:S125E"<This block of commented-out lines of code should be removed.(ùÒ”¶ûÿÿÿÿ

@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="631d07d5-bfcf-4c90-abe2-d22c7fa2c89c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/3/23091f6736ae646b3f152a6911463f7c52470f06" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,13 +61,13 @@
       <recent name="day3_array_based_programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.PasswordUC">
-    <configuration name="LastNameUC2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_19_regex_programs.LastNameUC2" />
+  <component name="RunManager" selected="Application.EmailValidation22">
+    <configuration name="EmailValidation18" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_19_regex_email_validation_programs.EmailValidation18" />
       <module name="Batch-230 Core Java Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_19_regex_programs.*" />
+          <option name="PATTERN" value="day_19_regex_email_validation_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -77,12 +75,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PasswordUC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_19_regex_programs.PasswordUC" />
+    <configuration name="EmailValidation19" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_19_regex_email_validation_programs.EmailValidation19" />
       <module name="Batch-230 Core Java Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_19_regex_programs.*" />
+          <option name="PATTERN" value="day_19_regex_email_validation_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,12 +88,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PinCodeValidationUC4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_19_regex_pincode_validation_programs.PinCodeValidationUC4" />
+    <configuration name="EmailValidation20" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_19_regex_email_validation_programs.EmailValidation20" />
       <module name="Batch-230 Core Java Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_19_regex_pincode_validation_programs.*" />
+          <option name="PATTERN" value="day_19_regex_email_validation_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidEmailUC3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_19_regex_programs.ValidEmailUC3" />
+    <configuration name="EmailValidation21" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_19_regex_email_validation_programs.EmailValidation21" />
       <module name="Batch-230 Core Java Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_19_regex_programs.*" />
+          <option name="PATTERN" value="day_19_regex_email_validation_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ValidMobileNumUC4" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_19_regex_programs.ValidMobileNumUC4" />
+    <configuration name="EmailValidation22" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_19_regex_email_validation_programs.EmailValidation22" />
       <module name="Batch-230 Core Java Programs" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day_19_regex_programs.*" />
+          <option name="PATTERN" value="day_19_regex_email_validation_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,19 +128,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.LastNameUC2" />
-      <item itemvalue="Application.PasswordUC" />
-      <item itemvalue="Application.ValidEmailUC3" />
-      <item itemvalue="Application.ValidMobileNumUC4" />
-      <item itemvalue="Application.PinCodeValidationUC4" />
+      <item itemvalue="Application.EmailValidation18" />
+      <item itemvalue="Application.EmailValidation19" />
+      <item itemvalue="Application.EmailValidation20" />
+      <item itemvalue="Application.EmailValidation21" />
+      <item itemvalue="Application.EmailValidation22" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PasswordUC" />
-        <item itemvalue="Application.ValidEmailUC3" />
-        <item itemvalue="Application.ValidMobileNumUC4" />
-        <item itemvalue="Application.LastNameUC2" />
-        <item itemvalue="Application.PinCodeValidationUC4" />
+        <item itemvalue="Application.EmailValidation22" />
+        <item itemvalue="Application.EmailValidation21" />
+        <item itemvalue="Application.EmailValidation20" />
+        <item itemvalue="Application.EmailValidation19" />
+        <item itemvalue="Application.EmailValidation18" />
       </list>
     </recent_temporary>
   </component>

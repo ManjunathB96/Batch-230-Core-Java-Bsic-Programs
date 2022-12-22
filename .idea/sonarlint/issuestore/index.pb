@@ -101,5 +101,3 @@ m
 =src/day_16_and_17_binarysearch_algorithm/WriteDataToFile.java,9\d\9d16dee66b99361e73c3145ac865b53c7147cab1
 |
 Lsrc/day_16_and_17_binarysearch_algorithm/BinarySearchOfStrByReadingFile.java,e\e\ee2f64a04e379e5f38a637a310667cb0fe21028e
-[
-+src/day_19_regex_programs/FirstNameUC1.java,2\3\23091f6736ae646b3f152a6911463f7c52470f06

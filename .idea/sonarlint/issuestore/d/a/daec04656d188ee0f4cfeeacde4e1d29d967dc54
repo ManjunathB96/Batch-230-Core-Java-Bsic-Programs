@@ -1,0 +1,12 @@
+
+h
+java:S1192"FDefine a constant instead of duplicating this literal "manju" 4 times.(ôê¼Òûÿÿÿÿ8¥ÎÀÍÑ0
+W
+java:S4973"<Strings and Boxed types should be compared using "equals()".(÷’˜–ûÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ËÏ—áüÿÿÿÿ
+E
+java:S1197"*Move the array designators [] to the type.(ôê¼Òûÿÿÿÿ
+E
+java:S1197
+"*Move the array designators [] to the type.(¥Ú“„üÿÿÿÿ
+T	java:S106"9Replace this use of System.out or System.err by a logger.(¹•´e8½“ºÍÑ0

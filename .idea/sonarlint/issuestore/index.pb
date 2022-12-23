@@ -71,8 +71,6 @@ j
 :src/day3_array_based_programs/ReplaceInPutValuesToOpp.java,8\9\89e05e7a27d51839467fbcbf85c547e55979cee3
 c
 3src/day3_array_based_programs/CountCharFromStr.java,b\9\b98a23a7539f0f00de0b6c0e9730ffc813fcc9e3
-d
-4src/day3_array_based_programs/CountVowelAndCons.java,e\7\e700efc8d97dd50a79207baa31ee220a04541641
 i
 9src/day3_array_based_programs/FindSmallestEleInArray.java,d\a\da7abbb7ee1a56aae914b887572316d90e432386
 h

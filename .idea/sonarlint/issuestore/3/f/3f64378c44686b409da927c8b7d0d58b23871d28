@@ -1,0 +1,16 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(—­ÆÔþÿÿÿÿ
+L
+java:S5869
+"*Remove duplicates in this character class.(ÝÒ³‡úÿÿÿÿ8û›€ÙÓ0
+W
+java:S6397
+"5Replace this character class by the character itself.(ÝÒ³‡úÿÿÿÿ8þ›€ÙÓ0
+D
+java:S1125"'Remove the unnecessary boolean literal.(¡âŸœ8‚œ€ÙÓ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ËŸô¢þÿÿÿÿ8…œ€ÙÓ0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(ã€Úƒøÿÿÿÿ8‰œ€ÙÓ0
+U	java:S106"9Replace this use of System.out or System.err by a logger.(ˆ‚Äê8‹œ€ÙÓ0
+v
+java:S5843
+"TSimplify this regular expression to reduce its complexity from 22 to the 20 allowed.(ÝÒ³‡úÿÿÿÿ8•œ€ÙÓ0

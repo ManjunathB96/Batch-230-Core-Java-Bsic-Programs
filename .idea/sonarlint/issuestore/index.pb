@@ -161,3 +161,11 @@ Asrc/day_19_regex_email_validation_programs/EmailValidation22.java,6\1\612bc93b
 ,src/day_19_regex_programs/ValidEmailUC3.java,7\2\72c2612bd59776ee2982633e271887f2d32fba66
 Y
 )src/day_19_regex_programs/PasswordUC.java,8\d\8d3446b5c4c340413ccb9d00a4ae1faf5fa13094
+`
+0src/day_20_junit_mood_analyser/MoodAnalyser.java,6\e\6e9a3e909a017cb79ae3f395ae5d7778f85477e0
+e
+5test/day_20_junit_mood_analyser/MoodAnalyserTest.java,5\e\5eece51b13d0664cd8f4c426ac7ff9cb70207b39
+c
+3src/day_16_and_17_algorithm_programs/MergeSort.java,f\0\f079147192fd2b6e1c7321cc95abfa7e4b6d2912
+U
+%src/day1_basic_programs/LeapYear.java,2\e\2eb8c4a2585ec29ab3db454166ac00566ab2c785

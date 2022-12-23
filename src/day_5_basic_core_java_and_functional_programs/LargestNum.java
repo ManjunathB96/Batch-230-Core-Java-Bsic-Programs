@@ -4,12 +4,12 @@ import java.util.ArrayList;
 import java.util.Scanner;
 import java.util.function.Function;
 
-public class MaxAmong3Num {
+public class LargestNum {
     int num1;
     int num2;
     int num3;
 
-    public MaxAmong3Num(int num1, int num2, int num3) {
+    public LargestNum(int num1, int num2, int num3) {
         this.num1 = num1;
         this.num2 = num2;
         this.num3 = num3;
@@ -17,10 +17,8 @@ public class MaxAmong3Num {
 
 }
 
-class ManinMax {
+class MaxAmongThreeNum {
     public static void main(String[] args) {
-        ArrayList<MaxAmong3Num> maxList = new ArrayList<>();
-
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter First Number...!");
         int n1 = sc.nextInt();
@@ -28,9 +26,15 @@ class ManinMax {
         int n2 = sc.nextInt();
         System.out.println("Enter Third Number...!");
         int n3 = sc.nextInt();
-        maxList.add(new MaxAmong3Num(n1, n2, n3));
 
-        Function<MaxAmong3Num, Integer> fn = e -> {
+        largestNumMtd(n1, n2, n3);
+
+    }
+
+    public static void largestNumMtd(int n1, int n2, int n3) {
+        ArrayList<LargestNum> numList = new ArrayList<>();
+        numList.add(new LargestNum(n1, n2, n3));
+        Function<LargestNum, Integer> fn = e -> {
             int num1 = e.num1;
             int num2 = e.num2;
             int num3 = e.num3;
@@ -50,10 +54,9 @@ class ManinMax {
             }
 
         };
-
-        for (MaxAmong3Num max : maxList) {
-            int largest = fn.apply(max);
-            System.out.println(largest+"  "+"Is The Largest Among Three Input Values");
+        for (LargestNum value : numList) {
+            int largest = fn.apply(value);
+            System.out.println(largest + "  " + "Is The Largest Among Three Numbers");
         }
     }
 }

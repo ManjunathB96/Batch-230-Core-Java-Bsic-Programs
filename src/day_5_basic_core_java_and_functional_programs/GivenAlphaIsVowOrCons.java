@@ -5,7 +5,6 @@ import java.util.function.Consumer;
 
 public class GivenAlphaIsVowOrCons {
     public static void main(String[] args) {
-
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter Alphabet");
         String str = sc.next().toLowerCase();

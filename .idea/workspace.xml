@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="631d07d5-bfcf-4c90-abe2-d22c7fa2c89c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/7/e700efc8d97dd50a79207baa31ee220a04541641" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_5_basic_core_java_and_functional_programs/GivenAlphaIsVowOrCons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_5_basic_core_java_and_functional_programs/GivenAlphaIsVowOrCons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day_5_basic_core_java_and_functional_programs/MaxAmong3Num.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day_5_basic_core_java_and_functional_programs/MaxAmong3Num.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,7 +71,7 @@
       <recent name="day3_array_based_programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.GivenAlphaIsVowOrCons">
+  <component name="RunManager" selected="Application.MaxAmongThreeNum">
     <configuration name="CheckNumIsEvenOrOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day_5_basic_core_java_and_functional_programs.CheckNumIsEvenOrOdd" />
       <module name="Batch-230 Core Java Programs" />
@@ -125,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwapMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_5_basic_core_java_and_functional_programs.SwapMain" />
+    <configuration name="MaxAmongThreeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day_5_basic_core_java_and_functional_programs.MaxAmongThreeNum" />
       <module name="Batch-230 Core Java Programs" />
       <extension name="coverage">
         <pattern>
@@ -142,16 +141,16 @@
       <item itemvalue="Application.CountVowelAndCons" />
       <item itemvalue="Application.GivenAlphaIsVowOrCons" />
       <item itemvalue="Application.ManinMax" />
+      <item itemvalue="Application.MaxAmongThreeNum" />
       <item itemvalue="Application.CheckNumIsEvenOrOdd" />
-      <item itemvalue="Application.SwapMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MaxAmongThreeNum" />
+        <item itemvalue="Application.ManinMax" />
         <item itemvalue="Application.GivenAlphaIsVowOrCons" />
         <item itemvalue="Application.CountVowelAndCons" />
-        <item itemvalue="Application.ManinMax" />
         <item itemvalue="Application.CheckNumIsEvenOrOdd" />
-        <item itemvalue="Application.SwapMain" />
       </list>
     </recent_temporary>
   </component>

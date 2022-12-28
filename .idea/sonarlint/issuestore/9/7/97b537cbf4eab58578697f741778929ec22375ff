@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëçß–þÿÿÿÿ
+x
+java:S1610"VConvert the abstract class "FlipCoinAndFindPercentageOfHeadAndTail" into an interface.(ºöé”ýÿÿÿÿ8ôžÝëÓ0
+N	java:S106"9Replace this use of System.out or System.err by a logger.(Í¶Ñœ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(þÜ…¾øÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(¦˜šÕ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ØÄ½ø
+S	java:S106""9Replace this use of System.out or System.err by a logger.(ªÓ¼áþÿÿÿÿ
+S	java:S106#"9Replace this use of System.out or System.err by a logger.(²“Îáùÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(Ñ¯¡Ìûÿÿÿÿ
+N	java:S106("9Replace this use of System.out or System.err by a logger.(Äæ®ú
+N	java:S106)"9Replace this use of System.out or System.err by a logger.(¤¬ˆ‹
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(œ£ÚŽ8³Ä¶ëÓ0

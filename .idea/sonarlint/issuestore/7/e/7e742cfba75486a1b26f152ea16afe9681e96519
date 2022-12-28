@@ -1,0 +1,15 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(ëçß–şÿÿÿÿ
+m
+java:S1450"WRemove the "firstNum" field and declare it as a local variable in the relevant methods.(´Â¬ì
+n
+java:S1450"XRemove the "secondNum" field and declare it as a local variable in the relevant methods.(¨†£¬
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ä¾–üüÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ØÙ©è
+S	java:S106"9Replace this use of System.out or System.err by a logger.(´ßµóûÿÿÿÿ
+U	java:S106#"9Replace this use of System.out or System.err by a logger.(‹«Ë’8ÄñÓ0
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(Ç‚°—úÿÿÿÿ8ÆñÓ0
+B
+java:S1068",Remove this unused "firstNum" private field.(´Â¬ì
+C
+java:S1068"-Remove this unused "secondNum" private field.(¨†£¬

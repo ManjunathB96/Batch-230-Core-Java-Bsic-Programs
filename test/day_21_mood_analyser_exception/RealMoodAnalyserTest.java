@@ -8,8 +8,8 @@ import org.junit.rules.ExpectedException;
 public class RealMoodAnalyserTest {
     @Test
     public void givenMessage_WhenSad_ShouldReturnSad() throws MoodAnalysisException {
-        RealMoodAnalyser analyser = new RealMoodAnalyser();
-        String mood = analyser.analyseMood("This is sad message");
+        RealMoodAnalyser moodAnalyser = new RealMoodAnalyser();
+        String mood = moodAnalyser.analyseMood("This is sad message");
         Assert.assertEquals("SAD",mood);
     }
     @Test
@@ -25,18 +25,7 @@ public class RealMoodAnalyserTest {
         Assert.assertEquals("HAPPY",mood);
     }
     @Test
-    public void givenNull_Should_ThrowException() {
-        RealMoodAnalyser moodAnalyser = new RealMoodAnalyser();
-        try {
-            ExpectedException exceptionRule = ExpectedException.none();
-            exceptionRule.expect(MoodAnalysisException.class);
-            moodAnalyser.analyseMood(null);
-        } catch (MoodAnalysisException e) {
-            Assert.assertEquals("Please enter proper mood", e.getMessage());
-        }
-    }
-    @Test
-    public void givenNullMoodShouldThrowException() {
+    public void givenNullMood_Should_ThrowException() {
         RealMoodAnalyser realMoodAnalyser = new RealMoodAnalyser(null);
         try {
             realMoodAnalyser.analyseMood(null);
@@ -45,7 +34,7 @@ public class RealMoodAnalyserTest {
         }
     }
     @Test
-    public void givenEmptyMoodShouldThrowException() {
+    public void givenEmptyMood_Should_ThrowException() {
         RealMoodAnalyser realMoodAnalyser = new RealMoodAnalyser("");
         try {
             realMoodAnalyser.analyseMood("");

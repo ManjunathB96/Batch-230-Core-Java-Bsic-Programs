@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="631d07d5-bfcf-4c90-abe2-d22c7fa2c89c" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test/day_21_mood_analyser_exception/RealMoodAnalyserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/day_21_mood_analyser_exception/RealMoodAnalyserTest.java" afterDir="false" />
     </list>
@@ -80,7 +79,7 @@
       <recent name="day3_array_based_programs" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.RealMoodAnalyserTest">
+  <component name="RunManager" selected="JUnit.RealMoodAnalyserTest.givenNull_ShouldReturnHappy">
     <configuration name="RealMoodAnalyserTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Batch-230 Core Java Programs" />
       <extension name="coverage">
@@ -169,11 +168,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RealMoodAnalyserTest.givenNull_ShouldReturnHappy" />
         <item itemvalue="JUnit.RealMoodAnalyserTest" />
         <item itemvalue="JUnit.RealMoodAnalyserTest.givenEmptyMoodShouldThrowException" />
         <item itemvalue="JUnit.RealMoodAnalyserTest.givenNullMoodShouldThrowException" />
         <item itemvalue="JUnit.RealMoodAnalyserTest.givenNull_Should_ThrowException" />
-        <item itemvalue="JUnit.RealMoodAnalyserTest.givenNull_ShouldReturnHappy" />
       </list>
     </recent_temporary>
   </component>

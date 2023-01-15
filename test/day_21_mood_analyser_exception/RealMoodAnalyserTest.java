@@ -35,4 +35,13 @@ public class RealMoodAnalyserTest {
             Assert.assertEquals("Please enter proper mood", e.getMessage());
         }
     }
+    @Test
+    public void givenNullMoodShouldThrowException() {
+        RealMoodAnalyser realMoodAnalyser = new RealMoodAnalyser(null);
+        try {
+            realMoodAnalyser.analyseMood(null);
+        } catch (MoodAnalysisException e) {
+            Assert.assertEquals(MoodAnalysisException.ExceptionType.ENTERED_NULL, e.type);
+        }
+    }
 }

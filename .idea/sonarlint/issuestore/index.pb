@@ -191,3 +191,9 @@ Asrc/day_5_basic_core_java_and_functional_programs/LargestNum.java,d\8\d8726bed
 0src/day_5_find_quoandreminder/QuoAndRemImpl.java,8\5\85761112db37c67e18e4c0c00c5a85945b8a9aa5
 [
 +src/day_5_find_quoandreminder/Elements.java,b\1\b1c27bea1a4b16607219cf292f97c264ffca70d3
+j
+:src/day3_array_based_programs/CountEachCharFromString.java,5\2\5292477c67f8a00e8755bd6464930fc0b1210101
+`
+0src/day_20_junit_mood_analyser/MoodAnalyser.java,6\e\6e9a3e909a017cb79ae3f395ae5d7778f85477e0
+e
+5test/day_20_junit_mood_analyser/MoodAnalyserTest.java,5\e\5eece51b13d0664cd8f4c426ac7ff9cb70207b39

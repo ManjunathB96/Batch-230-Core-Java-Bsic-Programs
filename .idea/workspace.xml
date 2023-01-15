@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="631d07d5-bfcf-4c90-abe2-d22c7fa2c89c" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5eece51b13d0664cd8f4c426ac7ff9cb70207b39" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/e/6e9a3e909a017cb79ae3f395ae5d7778f85477e0" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/day_21_mood_analyser_exception/RealMoodAnalyserTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/day_21_mood_analyser_exception/RealMoodAnalyserTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,8 +20,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="JUnit3 Test Class" />
         <option value="Class" />
+        <option value="JUnit3 Test Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -40,23 +44,28 @@
     <option name="showVisibilityIcons" value="true" />
     <option name="sortByType" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit3&quot;,
-    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3&quot;: &quot;junit.framework.TestCase&quot;,
-    &quot;full.screen.before.presentation.mode&quot;: &quot;false&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Downloaded.Files.Path.Enabled": "false",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit4",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit3": "junit.framework.TestCase",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4": "",
+    "full.screen.before.presentation.mode": "false",
+    "last_opened_file_path": "G:/Batch-230 Core Java Programs",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Batch-230 Core Java Programs\src\day_5_find_quoandreminder" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="F:\Batch-230 Core Java Programs\src\day_16_and_17_binarysearch_algorithm" />
     </key>
@@ -71,26 +80,13 @@
       <recent name="day3_array_based_programs" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.QuoAndRemMain">
-    <configuration name="CountVowelAndCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3_array_based_programs.CountVowelAndCons" />
+  <component name="RunManager" selected="JUnit.RealMoodAnalyserTest.givenMessage_WhenSad_ShouldReturnSad">
+    <configuration name="CountEachCharFromString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3_array_based_programs.CountEachCharFromString" />
       <module name="Batch-230 Core Java Programs" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="day3_array_based_programs.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="GivenAlphaIsVowOrCons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day_5_basic_core_java_and_functional_programs.GivenAlphaIsVowOrCons" />
-      <module name="Batch-230 Core Java Programs" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day_5_basic_core_java_and_functional_programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,20 +133,36 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="RealMoodAnalyserTest.givenMessage_WhenSad_ShouldReturnSad" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Batch-230 Core Java Programs" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day_21_mood_analyser_exception.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="day_21_mood_analyser_exception" />
+      <option name="MAIN_CLASS_NAME" value="day_21_mood_analyser_exception.RealMoodAnalyserTest" />
+      <option name="METHOD_NAME" value="givenMessage_WhenSad_ShouldReturnSad" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
+      <item itemvalue="Application.CountEachCharFromString" />
       <item itemvalue="Application.QuoAndRemMain" />
-      <item itemvalue="Application.CountVowelAndCons" />
-      <item itemvalue="Application.GivenAlphaIsVowOrCons" />
       <item itemvalue="Application.ManinMax" />
       <item itemvalue="Application.MaxAmongThreeNum" />
+      <item itemvalue="JUnit.RealMoodAnalyserTest.givenMessage_WhenSad_ShouldReturnSad" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.RealMoodAnalyserTest.givenMessage_WhenSad_ShouldReturnSad" />
+        <item itemvalue="Application.CountEachCharFromString" />
         <item itemvalue="Application.QuoAndRemMain" />
         <item itemvalue="Application.MaxAmongThreeNum" />
         <item itemvalue="Application.ManinMax" />
-        <item itemvalue="Application.GivenAlphaIsVowOrCons" />
-        <item itemvalue="Application.CountVowelAndCons" />
       </list>
     </recent_temporary>
   </component>

@@ -159,10 +159,6 @@ Asrc/day_19_regex_email_validation_programs/EmailValidation22.java,6\1\612bc93b
 ,src/day_19_regex_programs/ValidEmailUC3.java,7\2\72c2612bd59776ee2982633e271887f2d32fba66
 Y
 )src/day_19_regex_programs/PasswordUC.java,8\d\8d3446b5c4c340413ccb9d00a4ae1faf5fa13094
-`
-0src/day_20_junit_mood_analyser/MoodAnalyser.java,6\e\6e9a3e909a017cb79ae3f395ae5d7778f85477e0
-e
-5test/day_20_junit_mood_analyser/MoodAnalyserTest.java,5\e\5eece51b13d0664cd8f4c426ac7ff9cb70207b39
 c
 3src/day_16_and_17_algorithm_programs/MergeSort.java,f\0\f079147192fd2b6e1c7321cc95abfa7e4b6d2912
 U
@@ -187,3 +183,11 @@ d
 4src/day3_array_based_programs/CountVowelAndCons.java,e\7\e700efc8d97dd50a79207baa31ee220a04541641
 |
 Lsrc/day_5_basic_core_java_and_functional_programs/GivenAlphaIsVowOrCons.java,6\b\6b0ebdbbefda9eb3aefc359c308eb3dc0ff86173
+q
+Asrc/day_5_basic_core_java_and_functional_programs/LargestNum.java,d\8\d8726beda6ce519d5ee87661bb4f9cc7938c150b
+`
+0src/day_5_find_quoandreminder/QuoAndRemMain.java,4\7\47cf22a559cc743e4be4cc6bae710599984d6e61
+`
+0src/day_5_find_quoandreminder/QuoAndRemImpl.java,8\5\85761112db37c67e18e4c0c00c5a85945b8a9aa5
+[
++src/day_5_find_quoandreminder/Elements.java,b\1\b1c27bea1a4b16607219cf292f97c264ffca70d3
